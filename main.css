@@ -1,0 +1,36 @@
+body {
+    color: black;
+    background-color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+ul {
+    font-family: Arial, Helvetica, sans-serif;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+    align-items: center;
+    padding: 16x;
+
+}
+a {
+    color: black;
+    text-decoration: none;
+}
+
+img {
+    padding: 5px;
+}
+
+.center {
+    text-align: center;
+}
+h1 {
+    color: black;
+}
+h2 {
+    color: gray;
+}
+header {
+    color: black;
+}
